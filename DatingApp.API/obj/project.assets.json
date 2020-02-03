@@ -1150,11 +1150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "a:\\GitHub\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "A:\\GitHub\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "a:\\GitHub\\DatingApp.API\\DatingApp.API.csproj",
+      "projectPath": "A:\\GitHub\\DatingApp\\DatingApp.API\\DatingApp.API.csproj",
       "packagesPath": "C:\\Users\\Arianne Tan\\.nuget\\packages\\",
-      "outputPath": "a:\\GitHub\\DatingApp.API\\obj\\",
+      "outputPath": "A:\\GitHub\\DatingApp\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arianne Tan\\AppData\\Roaming\\NuGet\\NuGet.Config",
